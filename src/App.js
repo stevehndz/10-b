@@ -13,10 +13,13 @@ import CardGrid from "./components/LetterPage/CardGrid.js";
 
 function App() {
   const photos = [
-    "/surprise-1.jpg",
-    "/surprise-2.jpg",
-    "/surprise-1.jpg",
-    "/surprise-2.jpg",
+    "/prize-1.jpg",
+    "/prize-2.jpg",
+    "/prize-3.jpg",
+    "/prize-4.jpg",
+    "/prize-5.jpg",
+    "/prize-6.jpg",
+    "/prize-7.jpg",
     // ...more photo URLs
   ];
 
@@ -34,7 +37,7 @@ function App() {
     // ... más tarjetas
   ];
 
-  const backgroundImage = "/card-banner.jpg";
+  const backgroundImage = "/card-banner.png";
 
   return (
     <>

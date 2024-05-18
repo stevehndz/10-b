@@ -38,6 +38,9 @@ function CardGrid({ cards, backgroundImage }) {
           />
         ))}
       </div>
+      <h3 className="mt-16 font-bold text-xl md:text-2xl text-center">
+      En la ronda de los diez, uno baila diferente, descubre al que se mueve, y asi tendrás tu presente.
+      </h3>
     </div>
   );
 }
